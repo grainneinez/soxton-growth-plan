@@ -115,30 +115,82 @@ window.SOXT_DATA = {
     {
       "day": "30",
       "range": "Days 01–30",
-      "title": "Map the opportunity.\nPrepare to go global.",
-      "summary": "Start with a focused international audience: early-stage founders in North America and the UK/Ireland, including founders exploring US expansion. Validate demand, relevant legal needs and Soxton’s service coverage before selecting the first pilots.",
-      "deliverable": "A two-region audience map, a repaired website journey, a consistent content calendar and a launch-ready startup event kit.",
+      "title": "Audit. Strengthen.\nShow up.",
+      "summary": "The first job is to make sure the website works. Then make Soxton easier to understand, more visible where founders spend time, and present in the rooms where relationships start.",
+      "deliverable": "A working website journey, a clearer brand, a consistent X and LinkedIn content rhythm, and real founder conversations that inform the global rollout.",
       "tasks": [
         [
-          "Listen across markets",
-          "Interview 10 founders across the proposed regions and 3 internal operators. Learn their next legal task, how they find support, what they need to trust Soxton and which event format they would attend."
+          "Audit the website. Make sure it works.",
+          "Audit current market signals and brand legibility, then improve the experience. The first priority is to make sure the website is working: every important link, form and call to action should take visitors somewhere useful."
         ],
         [
-          "Map service coverage and partners",
-          "Confirm supported jurisdictions, eligible matters and attorney ownership. Shortlist 6 prospective community or accelerator hosts across North America and the UK/Ireland, and validate fit with 3 organizer conversations."
+          "Review the brand. Be where founders are.",
+          "Soxton needs a stronger presence on X and consistent thought leadership on LinkedIn. We need to meet founders where they actually are, with useful ideas, practical resources and a clear point of view."
         ],
         [
-          "Fix the website and sharpen the message",
-          "Resolve the hiring-page dead end, audit key links and align the website and partner offers. Build one clear message for international founders, with service scope and next steps easy to understand."
-        ],
-        [
-          "Build the event and content kit",
-          "Prepare the Soxton Startup Legal Launchpad: a 60-minute session, attorney-reviewed legal basics, a founder resource pack, a registration-page draft and a four-week LinkedIn and partner-content calendar."
+          "Meet founders where they are. Literally.",
+          "The third priority is to meet founders where they are—not metaphorically, but literally. Show up in the rooms where founders exchange ideas, ask questions and build relationships."
         ]
       ],
-      "measure": "Establish baseline traffic and qualified enquiries by region and source. Track founder interviews, partner interest, event sign-ups and whether prospects understand the service scope.",
-      "gate": "Day 30 decision: choose two regional audiences and secure a suitable host and attorney for the first event. Confirm the scope of guidance and the follow-up route before promotion.",
-      "owners": "I own research, partner outreach, website copy, event production and the content calendar. Legal confirms coverage and educational content; product validates intake and tracking."
+      "measure": "Baseline website journeys and qualified enquiries; track broken-link fixes, message clarity, X and LinkedIn reach, meaningful founder replies, in-person conversations and agreed follow-up. Interview 10 founders across North America and the UK/Ireland to inform the first global pilots.",
+      "gate": "Day 30 decision: confirm the website journey works, establish a sustainable content rhythm and use founder conversations to choose two regional audiences. Confirm service coverage, a suitable host and attorney for the first Startup Legal Launchpad.",
+      "owners": "I own the website audit, brand review, content calendar, founder networking and event preparation. Product supports website fixes and tracking; legal confirms service coverage and any jurisdiction-specific guidance.",
+      "evidence": [
+        {
+          "label": "01 / WEBSITE & MARKET AUDIT",
+          "paragraphs": [
+            "I would review founder questions, competitor positioning, search intent and partner messaging to understand current market signals. Then I would test brand legibility: can a founder quickly understand what Soxton does, who it serves, why to trust it and what to do next?",
+            "The broken careers page below is a concrete place to start. I would tweak the website, fix this dead end and run through the whole journey on desktop and mobile."
+          ],
+          "actions": [
+            "Repair broken links and test forms, navigation and calls to action.",
+            "Align the service promise, partner offers and next steps.",
+            "Use founder feedback to improve the message and page structure."
+          ],
+          "image": "careers-page-not-found.png",
+          "width": 2048,
+          "height": 1051,
+          "alt": "Original screenshot of the Soxton careers destination displaying Page not found and The page you requested was not found.",
+          "caption": "Observed website issue · Screenshot supplied for this proposal. My first action would be to fix the destination and check the complete website journey.",
+          "format": "wide website"
+        },
+        {
+          "label": "02 / BRAND PRESENCE & THOUGHT LEADERSHIP",
+          "paragraphs": [
+            "Soxton sits at the intersection of legal technology and startups—two of the most defining industries of our generation. There is a huge opportunity to lead the conversation through thoughtful, useful content.",
+            "I would review the current social presence, identify the founder conversations Soxton should join, and turn the questions we hear into a consistent editorial calendar. The goal is to become a recognizable, credible voice founders return to."
+          ],
+          "actions": [
+            "X: publish practical founder insights and participate in relevant conversations every working day.",
+            "LinkedIn: publish two substantive posts and one deeper perspective each week, drawing on legal technology, startup decisions and real founder questions.",
+            "Connect content to useful resources, events and a clear next step; track qualified conversations as well as reach."
+          ],
+          "image": "soxton-x-presence.png",
+          "width": 1418,
+          "height": 1048,
+          "alt": "User-supplied screenshot of the SoxtonAI X profile, showing its branding, bio and visible posts.",
+          "caption": "Current presence to review · User-supplied X screenshot. A stronger presence and consistent thought leadership are my proposed priorities; this image alone is not a complete account audit.",
+          "format": "social"
+        },
+        {
+          "label": "03 / IN-PERSON FOUNDER RELATIONSHIPS",
+          "paragraphs": [
+            "Stacy Williams, Head of Operations at AI Founders Connect, has invited me to attend a startup founders event at Cornell Tech. The invitation below gives me a concrete opportunity to get into the room.",
+            "I could attend in person to represent Soxton, provide practical startup guidance, connect legal questions with the right support, network and build the brand presence that is missing. I would bring useful resources, listen to founders’ immediate needs and turn conversations into agreed follow-up."
+          ],
+          "actions": [
+            "Before: prepare a clear Soxton introduction and a useful founder resource.",
+            "In the room: listen, offer relevant guidance and build relationships.",
+            "After: follow up with interested founders and turn recurring questions into content and future events."
+          ],
+          "image": "ai-founders-connect-invitation.png",
+          "width": 2048,
+          "height": 1269,
+          "alt": "Email from Stacy Williams, Head of Operations at AI Founders Connect, inviting Gráinne to attend a founders event at Cornell Tech on 29 October, 5–9 PM New York time.",
+          "caption": "A real invitation to attend · Stacy Williams, Head of Operations, AI Founders Connect. Representing Soxton and providing founder support are my proposed next steps.",
+          "format": "wide invitation"
+        }
+      ]
     },
     {
       "day": "60",
