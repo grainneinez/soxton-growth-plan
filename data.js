@@ -151,7 +151,7 @@ window.SOXT_DATA = {
           "width": 2048,
           "height": 1051,
           "alt": "Original screenshot of the Soxton careers destination displaying Page not found and The page you requested was not found.",
-          "caption": "Observed website issue · Screenshot supplied for this proposal. My first action would be to fix the destination and check the complete website journey.",
+          "caption": "As of 9:42 a.m. ET on October 20, 2026, the careers link still returns “Page not found.” Screenshot supplied for this proposal. My first action would be to fix the destination and check the complete website journey.",
           "format": "wide website"
         },
         {
